@@ -1,4 +1,4 @@
-# Zuse Gate Keeper
+# Gate Keeper
 
 Gatekeeper - Enhancing Your Paper-less Future!
 
